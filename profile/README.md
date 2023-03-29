@@ -14,3 +14,4 @@
 -
 
 * It's a [community](https://discord.gg/eSArGamzeT) for everyone who wants to stay on top of everything that happens on yzorb, and it has a more interactive support, where you can clear your doubts with our team or with other people who have had the same problem as you.
+........
